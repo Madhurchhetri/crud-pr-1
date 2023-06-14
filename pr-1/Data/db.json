@@ -1,0 +1,18 @@
+{
+  "Product": [
+    {
+      "pname": "Mobile",
+      "company": "OPPO",
+      "price": "25000",
+      "desc": "lorem ipsum",
+      "id": 1
+    },
+    {
+      "pname": "Mobile",
+      "company": "OnePlus",
+      "price": "44454",
+      "desc": "World Best Feautres",
+      "id": 2
+    }
+  ]
+}
